@@ -8,4 +8,4 @@ Estudiante de primer año de la Licenciatura en Ciencias de Datos en la Universi
 - 🤖 Últimamente estoy experimentando mucho con herramientas de IA para programar
 - 👯 Me copa sumarme a proyectos de datos, finanzas o tecnología
 - 📫 Contacto: [sramuchiio@gmail.com]
-- ⚡ Dato curioso: mi familia tiene campo, así que el agro siempre me tira para alguna idea 
+
